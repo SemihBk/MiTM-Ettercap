@@ -31,7 +31,7 @@ http://testphp.vulnweb.com/login.php et http://www.wisemed.cn/demo/index.php/ind
 ![image](https://user-images.githubusercontent.com/97962049/198310862-af87b0c4-1030-4bae-b243-a440ed826466.png)
 
 Fonctionnel!<br>
-Ettercap intercepe les données envoyées au routeur en passant d'abord par ma machine.
+Ettercap intercepte les données envoyées au routeur en passant d'abord par ma machine.
 
 `REMARQUE : ettercap ne convertit pas les caractères spéciaux (é = %C3%A9) (no UTF-8 ?)`
 <br>
