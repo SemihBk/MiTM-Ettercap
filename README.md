@@ -50,4 +50,11 @@ Ettercap intercepte les données envoyées au routeur en passant d'abord par ma 
 
 ## WireShark 
 
+Wireshark permet d'analyser le trafic de ma cible.<br>
+On peut voir en temps réel ce que fait la cible.<br>
+On a aussi accès au contenu des requêtes.<br>
+
+Voici une autre requête POST.
+
+![image](https://user-images.githubusercontent.com/97962049/198324331-1cb8dac3-9b2a-4a89-864c-bc6af182b6ba.png)
 
