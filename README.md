@@ -12,7 +12,7 @@
 
 
 ### Identifier qui est sur le réseau sans-fil, et qui est on est
-`sudo nmap -sPP [HOST IP/24]`
+`sudo nmap -sP [HOST IP/24]`
 <br>
 
 ## ETTERCAP / ARP POISONING
