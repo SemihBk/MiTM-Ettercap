@@ -7,3 +7,8 @@
 
 - Installer nmap
 > sudo apt-get install nmap
+
+
+### Vérifier les versions ettercap / namp
+> ettercap -v
+> nmap -v
