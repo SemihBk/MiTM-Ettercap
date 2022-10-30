@@ -6,7 +6,7 @@
 `sudo apt-get install nmap`
 
 
-### Vérifier les versions ettercap / namp
+### Vérifier les versions ettercap / nmap
 `ettercap -v`<br>
 `nmap -v`
 
